@@ -1,0 +1,16 @@
+*.iml
+*idea*
+*target*
+.DS_Store
+*.classpath*
+*.project*
+*.settings*
+trace
+log
+deploy
+antx.properties
+*.log
+config.properties
+*.pid
+server_deploy
+access-api.properties
